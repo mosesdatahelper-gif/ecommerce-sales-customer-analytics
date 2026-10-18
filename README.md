@@ -42,6 +42,14 @@ The Power BI dashboard includes:
 ## Project Files
 The repository currently includes the project case study PDF. Dashboard screenshots and other appropriate portfolio materials may be added as the repository is completed.
 
+
+## Dashboard Screenshots
+
+### Executive Sales Overview
+![Executive Sales Overview](01_Executive_Sales_Overview.png)
+
+### Customer Analysis
+![Customer Analysis](02_Customer_Analysis.png.png)
 ## Data Privacy
 Only appropriate portfolio materials should be shared publicly. Raw datasets containing personal or confidential customer information should not be uploaded without confirming that publication is authorized.
 
